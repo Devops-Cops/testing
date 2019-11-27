@@ -1,4 +1,2 @@
 # testing
-Test for auto build using poll
-Selva 
-tameem Trigger        
+Test for auto build using poll      
